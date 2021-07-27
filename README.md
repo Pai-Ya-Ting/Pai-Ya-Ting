@@ -1,13 +1,14 @@
-- 👋 Hi, I’m @Pai-Ya-Ting
+<!-- - 👋 Hi, I’m @Pai-Ya-Ting
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
-### Hello World 👋
+ -->
+ 
+### Hello 👋
 I’m a fresh graduate from National Yang Ming Chiao Tung University.
-- 🔭 Seeking an entry-level position to start my career in a professional setting.
-- 🌱 Learning design patterns in depth
+- 👀 Seeking an entry-level position to start my career in a professional setting.
+- 🌱 I’m interested in Data-related and  Web Development positions.
 
 <br>
 

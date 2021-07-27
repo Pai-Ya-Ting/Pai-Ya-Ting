@@ -5,8 +5,10 @@
 - 📫 How to reach me ...
 
 ### Hello World 👋
-I’m @Pai-Ya-Ting.
-- 🔭 Working on multiple frontend and backend project using React and Nodejs
+I’m a fresh graduate from National Yang Ming Chiao Tung University.
+- 🔭
+- <img align = "left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F800726008741764434%2F&psig=AOvVaw1medtd_1BlrVHixJmgIUxi&ust=1627478076497000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMD3jLeqg_ICFQAAAAAdAAAAABAD![image](https://user-images.githubusercontent.com/12762532/127159767-565a62e9-aa8f-465a-83de-71a3135e14ff.png)
+" /> Seeking an entry-level position to start my career in a professional setting.
 - 🌱 Learning design patterns in depth
 <br>
 ## Connect with me

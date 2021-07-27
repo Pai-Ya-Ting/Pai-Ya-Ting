@@ -7,7 +7,7 @@
 ### Hello World 👋
 I’m a fresh graduate from National Yang Ming Chiao Tung University.
 - 🔭
-- <img align = "left" src="https://i.pinimg.com/originals/89/c8/58/89c858205689c2756a3c434575f74c8b.png" /> Seeking an entry-level position to start my career in a professional setting.
+- <img align = "left" src="https://www.freepik.com/free-icon/programming_768745.htm" /> Seeking an entry-level position to start my career in a professional setting.
 - 🌱 Learning design patterns in depth
 <br>
 ## Connect with me

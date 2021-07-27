@@ -9,6 +9,7 @@
 I’m a fresh graduate from National Yang Ming Chiao Tung University.
 - 👀 Seeking an entry-level position to start my career in a professional setting.
 - 🌱 I’m interested in Data-related and  Web Development positions.
+- To know me better, visit my website!
 
 <br>
 
